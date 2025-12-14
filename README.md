@@ -35,3 +35,6 @@ t2.adelante(10)
 
 •Clases y objetos
 
+## 👩‍💻 Autor
+Camilo Angulo  
+Institución Universitaria Digital de Antioquia
